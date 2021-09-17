@@ -8,7 +8,7 @@
 
 <script>
 import Title from "./components/title.vue";
-// import Hero from "./components/hero.vue";
+import Hero from "./components/hero.vue";
 export default {
   name: "App",
   components: {
